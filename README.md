@@ -21,13 +21,15 @@
   * [Quest 09. 정적인 컨텐츠 서비스 하기](./Quest09)
   * [Quest 10. 자동화된 테스트](./Quest10)
   * [Quest 11. 보안의 기초](./Quest11)
-  * [Quest 12. 마이크로서비스와 람다](./Quest12)
-  * [Quest 13. 코드로 인프라 관리하기](./Quest13)
-  * [Quest 14. 모노리포와 린팅](./Quest14)
-  * [Quest 15. 배포 파이프라인](./Quest15)
-  * [Quest 16. 서비스의 운영 (1): 서버 들여다 보기](./Quest16)
-  * [Quest 17. 서비스의 운영 (2): 로깅과 모니터링](./Quest17)
-  * [Quest 18. 스트레스 테스트](./Quest18)
+  * [Quest 12. DNS와 HTTPS](./Quest12)
+  * [Quest 13. 마이크로서비스와 람다](./Quest13)
+  * [Quest 14. 코드로 인프라 관리하기](./Quest14)
+  * [Quest 15. 모노리포와 린팅](./Quest15)
+  * [Quest 16. 배포 파이프라인](./Quest16)
+  * [Quest 17. 서비스의 운영 (1): 서버 들여다 보기](./Quest17)
+  * [Quest 18. 서비스의 운영 (2): 로깅과 모니터링](./Quest18)
+  * [Quest 19. 스트레스 테스트](./Quest19)
+  * [Quest 20. 세상 밖으로](./Quest20)
 
   </p>
 </details>
