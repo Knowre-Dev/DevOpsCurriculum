@@ -28,3 +28,6 @@
   * Fargate 기반의 API 서비스
   * 람다 기반의 서비스
   * S3와 Cloudfront 기반의 정적 웹사이트
+
+## Advanced
+* 

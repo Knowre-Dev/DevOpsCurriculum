@@ -33,3 +33,6 @@
 * Cloudfront에 연결된 정적인 웹사이트와 ECS에서 서비스 되는 API 서버가 위 도메인으로 서비스 되도록 설정과 연결해 보세요.
 * Certificate Manager를 통해 인증서를 만들어 보세요. 그리고 위 두 서비스가 HTTPS로 서비스될 수 있도록 바꿔 보세요.
 * HTTP로 접속했을 때 HTTPS로 리다이렉트 되도록 설정해 보세요.
+
+## Advanced
+* 

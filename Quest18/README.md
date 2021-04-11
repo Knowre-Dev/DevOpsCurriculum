@@ -21,3 +21,6 @@
 * 우리의 웹 서버, S3, Cloudfront, VPC, ELB 등이 로그를 남기도록 해 보세요.
 * ElasticSearch Service 클러스터를 작은 사양으로 하나 만들고, 이 로그가 ElasticSearch로 들어가도록 해 보세요.
 * Grafana를 이용해 ElasticSearch의 로그를 실시간으로 볼 수 있는 페이지를 만들어 보세요.
+
+## Advanced
+* 

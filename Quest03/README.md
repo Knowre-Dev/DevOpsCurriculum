@@ -35,3 +35,6 @@
 * telnet 명령을 통해 `http://www.google.com/` URL에 HTTP 요청을 날려 보세요.
   * 어떤 헤더들이 있나요?
   * 그 헤더들은 어떤 역할을 하나요?
+
+## Advanced
+* 
