@@ -25,14 +25,14 @@
   * `i`, `w`, `q`, `u`, `d`, `p` 명령
 
 ## Resources
-* https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
-* https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/
-* https://www.tutorialspoint.com/unix/unix-what-is-shell.htm
-* https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
-* https://www.infoworld.com/article/2832405/what-is-systemd-and-why-does-it-matter-to-linux-users.html
-* https://thebloggingpot.com/2018/05/23/different-linux-distributions-explained/
-* https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-102-5/
-* https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-103-8/
+* [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* [The Linux Directory Structure, Explained](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
+* [Unix / Linux - What is Shells?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
+* [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+* [About systemd](https://www.infoworld.com/article/2832405/what-is-systemd-and-why-does-it-matter-to-linux-users.html)
+* [About linux distributions](https://thebloggingpot.com/2018/05/23/different-linux-distributions-explained/)
+* [RPM and YUM package management](https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-102-5/)
+* [File editing with vi](https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-103-8/)
 
 ## Checklist
 * 리눅스의 파이프 문자는 어떤 역할을 하나요?
