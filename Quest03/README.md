@@ -12,14 +12,14 @@
 * DNS
 
 ## Resources
-* https://ko.wikipedia.org/wiki/OSI_%EB%AA%A8%ED%98%95
-* https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C
-* https://ping.eu/traceroute/
-* https://ko.wikipedia.org/wiki/%EC%A0%84%EC%86%A1_%EC%A0%9C%EC%96%B4_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C
-* https://www.wireshark.org/download.html
-* https://ko.wikipedia.org/wiki/HTTP
-* https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%84%A4%EC%9E%84_%EC%8B%9C%EC%8A%A4%ED%85%9C
-* https://networking.ringofsaturn.com/Tools/dig.php
+* [OSI 모형](https://ko.wikipedia.org/wiki/OSI_%EB%AA%A8%ED%98%95)
+* [인터넷 프로토콜](https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
+* [traceroute](https://ping.eu/traceroute/)
+* [TCP](https://ko.wikipedia.org/wiki/%EC%A0%84%EC%86%A1_%EC%A0%9C%EC%96%B4_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
+* [Wireshark](https://www.wireshark.org/download.html)
+* [HTTP](https://ko.wikipedia.org/wiki/HTTP)
+* [DNS](https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%84%A4%EC%9E%84_%EC%8B%9C%EC%8A%A4%ED%85%9C)
+* [Web-Based Dig](https://networking.ringofsaturn.com/Tools/dig.php)
 
 ## Checklist
 * 인터넷은 어떻게 동작하나요? OSI 7 Layer에 입각하여 설명해 보세요.

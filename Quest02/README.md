@@ -9,8 +9,8 @@
 * `let`, `const`, `if`, `for`, `function`
 
 ## Resources
-* https://nodejs.org/ko/download/package-manager/
-* https://nodejs.org/ko/
+* [패키지 매니저로 Node.js 설치하기](https://nodejs.org/ko/download/package-manager/)
+* [node.js](https://nodejs.org/ko/)
 
 ## Checklist
 * node.js란 무엇일까요? 
