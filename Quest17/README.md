@@ -9,9 +9,9 @@
 * Grafana
 
 ## Resources
-* https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/
-* https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/working_with_metrics.html
-* https://grafana.com/docs/grafana/latest/getting-started/getting-started/
+* [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+* [Amazon CloudWatch 지표 사용](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/working_with_metrics.html)
+* [Getting started with Grafana](https://grafana.com/docs/grafana/latest/getting-started/getting-started/)
 
 ## Checklist
 * 위 Topics의 리눅스 커맨드들은 어떤 커맨드인가요? 운영 중 어떤 상황에 쓸 수 있을까요?
@@ -24,4 +24,4 @@
 * 서버가 비정상 상태일 때, 혹은 서버의 대수에 변화가 있을 때 운영자가 알 수 있도록 슬랙을 통해 Alert을 설정해 보세요.
 
 ## Advanced
-* 
+* 리눅스 시스템을 웹 서버 용도로 사용할 때, 서비스하는 트래픽의 특성에 따라 CPU, 메모리, 파일 I/O 중 어떤 것들이 중요하게 될까요?
