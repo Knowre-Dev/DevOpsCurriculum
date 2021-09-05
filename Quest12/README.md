@@ -12,13 +12,13 @@
 * HTTP/3
 
 ## Resources
-* https://www.redhat.com/sysadmin/dns-domain-name-servers
-* https://aws.amazon.com/ko/route53/what-is-dns/
-* https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html
-* https://anushadasari.medium.com/the-https-protocol-explained-under-the-hood-c7bd9f9aaa7b
-* https://www.internetsociety.org/deploy360/tls/basics/
-* https://docs.aws.amazon.com/ko_kr/acm/latest/userguide/acm-overview.html
-* https://http3-explained.haxx.se/ko
+* [DNS Servers](https://www.redhat.com/sysadmin/dns-domain-name-servers)
+* [What is DNS](https://aws.amazon.com/ko/route53/what-is-dns/)
+* [Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html)
+* [HTTPS protocol explained](https://anushadasari.medium.com/the-https-protocol-explained-under-the-hood-c7bd9f9aaa7b)
+* [TLS](https://www.internetsociety.org/deploy360/tls/basics/)
+* [AWS Certificate Manager](https://docs.aws.amazon.com/ko_kr/acm/latest/userguide/acm-overview.html)
+* [HTTP3 explained](https://http3-explained.haxx.se/ko)
 
 ## Checklist
 * DNS의 레코드에는 어떤 종류들이 있나요? 이 종류들은 어떤 용도로 쓰일까요?
@@ -35,4 +35,5 @@
 * HTTP로 접속했을 때 HTTPS로 리다이렉트 되도록 설정해 보세요.
 
 ## Advanced
-* 
+* DNS의 TTL은 무엇인가요? 실제 리얼 월드에서는 이 DNS의 TTL이 어떻게 동작하고 있을까요?
+* 사용중인 OS에서 인정하는 Root CA에는 어떤 기관들이 있을까요? 만약 이 기관중 하나의 인증서 키가 유출된다면 어떤 일이 일어날까요?
