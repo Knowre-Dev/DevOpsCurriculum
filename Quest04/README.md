@@ -9,8 +9,8 @@
 * 프록시(리버스 프록시, 포워드 프록시)
 
 ## Resources
-* https://www.quora.com/What-is-a-daemon-process-in-Linux
-* https://www.nginx.com/resources/glossary/reverse-proxy-server/
+* [Daemon Process](https://www.quora.com/What-is-a-daemon-process-in-Linux)
+* [Reverse Proxy](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
 ## Checklist
 * 서버 환경에서 데몬이란 무엇일까요? node.js 서버를 데몬으로 만들려면 어떻게 해야 할까요?
