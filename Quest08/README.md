@@ -9,9 +9,9 @@
 * Blue/Green Deployment
 
 ## Resources
-* https://aws.amazon.com/ko/systems-manager/
-* https://aws.amazon.com/ko/fargate/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&fargate-blogs.sort-by=item.additionalFields.createdDate&fargate-blogs.sort-order=desc
-* https://www.redhat.com/ko/topics/devops/what-is-blue-green-deployment
+* [Systems manager](https://aws.amazon.com/ko/systems-manager/)
+* [AWS Fargate](https://aws.amazon.com/ko/fargate)
+* [Blue-Green Deployment](https://www.redhat.com/ko/topics/devops/what-is-blue-green-deployment)
 
 ## Checklist
 * AWS의 Systems Manager는 어떤 서비스인가요?
