@@ -9,9 +9,9 @@
 * AWS Codebuild
 
 ## Resources
-* https://aws.amazon.com/ko/devops/continuous-integration/
-* https://aws.amazon.com/ko/devops/continuous-delivery/
-* https://aws.amazon.com/ko/codebuild/getting-started/
+* [Continuous Integration](https://aws.amazon.com/ko/devops/continuous-integration/)
+* [Continuous Delivery](https://aws.amazon.com/ko/devops/continuous-delivery/)
+* [AWS Codebuild](https://aws.amazon.com/ko/codebuild/getting-started/)
 
 ## Checklist
 * CI/CD는 무엇일까요? CI/CD 시스템을 구축하면 어떤 장점이 있을까요?
