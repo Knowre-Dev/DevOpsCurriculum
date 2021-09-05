@@ -9,10 +9,10 @@
 * API Gateway
 
 ## Resources
-* https://news.hada.io/topic?id=638
-* https://www.redhat.com/ko/topics/microservices/what-are-microservices
-* https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/welcome.html
-* https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/welcome.html
+* [제프 베조스의 메일](https://news.hada.io/topic?id=638)
+* [Microservices](https://www.redhat.com/ko/topics/microservices/what-are-microservices)
+* [AWS Lambda](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/welcome.html)
+* [API Gateway](https://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/welcome.html)
 
 ## Checklist
 * 마이크로서비스가 무엇인가요? 이러한 구조의 장점은 무엇일까요?
@@ -27,4 +27,5 @@
 * API Gateway를 통해 서비스 되고 있는 API가 우리만의 도메인을 가지고 HTTPS로 서비스될 수 있도록 하려면 어떻게 해야 할까요?
 
 ## Advanced
-* 
+* 마이크로서비스 아키텍쳐의 단점은 무엇일까요? 이를 해결하기 위해 어떤 방법론들이 제시되고 있을까요?
+* 카오스 엔지니어링이란 무엇일까요?
