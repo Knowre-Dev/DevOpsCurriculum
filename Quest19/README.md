@@ -11,12 +11,12 @@
 * Lambda Concurrency
 
 ## Resources
-* https://www.guru99.com/stress-testing-tutorial.html
-* https://artillery.io/
-* https://aws.amazon.com/ko/about-aws/whats-new/2018/01/introducing-aws-auto-scaling/
-* https://aws.amazon.com/ko/blogs/korea/category/compute/auto-scaling/
-* https://docs.aws.amazon.com/ko_kr/AmazonECS/latest/developerguide/service-auto-scaling.html
-* https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html
+* [Stress testing tutorial](https://www.guru99.com/stress-testing-tutorial.html)
+* [Artillery](https://artillery.io/)
+* [AWS AutoScaling](https://aws.amazon.com/ko/about-aws/whats-new/2018/01/introducing-aws-auto-scaling/)
+* [Auto Scaling](https://aws.amazon.com/ko/blogs/korea/category/compute/auto-scaling/)
+* [ECS Auto Scaling](https://docs.aws.amazon.com/ko_kr/AmazonECS/latest/developerguide/service-auto-scaling.html)
+* [Lambda Concurrency](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html)
 
 ## Checklist
 * 스트레스 테스트는 왜 하는 것일까요?
@@ -30,4 +30,4 @@
 * Fargate의 Auto Scaling 기능을 설정하여, 초당 일정 이상의 부하가 걸리면 자동으로 컨테이너를 늘리고, 부하가 줄면 자동으로 컨테이너의 수를 줄이게 만들어 보세요.
 
 ## Advanced
-* 
+* 실제 세상에서 자주 업데이트 되는 서비스가 있다고 할 때, 이런 서비스를 스트레스 테스트 하는 데에는 어떤 전략들이 있을까요? 각각의 전략들은 어떤 상황에서 사용될 수 있을까요?
