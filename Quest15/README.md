@@ -9,10 +9,10 @@
 * Lint (eslint)
 
 ## Resources
-* https://medium.com/better-programming/the-pros-and-cons-monorepos-explained-f86c998392e1
-* https://github.com/lerna/lerna
-* https://en.wikipedia.org/wiki/Lint
-* https://eslint.org/
+* [Monorepo의 장점과 단점](https://medium.com/better-programming/the-pros-and-cons-monorepos-explained-f86c998392e1)
+* [Lerna](https://github.com/lerna/lerna)
+* [Lint](https://en.wikipedia.org/wiki/Lint)
+* [ESLint](https://eslint.org/)
 
 ## Checklist
 * 모노리포는 어떤 개념인가요? 모노리포를 적용할 때의 장단점은 무엇일까요?
@@ -24,4 +24,5 @@
 * eslint의 기본 설정을 이용해 이 코드들을 린팅해 보세요. 모든 패키지를 명령 하나로 한 번에 린팅하려면 어떻게 해야 할까요?
 
 ## Advanced
-* 
+* Lerna 외의 모노리포 툴에는 어떤 것들이 있을까요? Lerna와는 어떤 점이 다를까요?
+* ESLint는 내부적으로 어떤 원리로 코드를 분석할까요? 정적 분석이란 무엇일까요?
