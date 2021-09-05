@@ -9,9 +9,9 @@
 * docker-compose
 
 ## Resources
-* https://www.docker.com/101-tutorial
-* https://docker-curriculum.com/
-* https://docs.docker.com/compose/
+* [Docker 101 Tutorial](https://www.docker.com/101-tutorial)
+* [Docker for beginners](https://docker-curriculum.com/)
+* [docker-compose](https://docs.docker.com/compose/)
 
 ## Checklist
 * 컨테이너는 어떻게 동작하나요? 다른 배포판을 사용할 수 있게 하는 원리가 무엇일까요?
