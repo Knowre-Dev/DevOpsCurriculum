@@ -11,11 +11,11 @@
   * AWS Provider
 
 ## Resources
-* https://en.wikipedia.org/wiki/Infrastructure_as_code
-* https://www.terraform.io/intro/index.html
-* https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code
-* https://www.terraform.io/docs/state/index.html
-* https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+* [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
+* [Terraform](https://www.terraform.io/intro/index.html)
+* [Introducing Terraform](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
+* [Terraform state](https://www.terraform.io/docs/state/index.html)
+* [Terraform Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ## Checklist
 * IaC(Infra as Code)는 어떤 개념인가요? 이러한 개념이 왜 생기게 되었을까요?
@@ -30,4 +30,4 @@
   * S3와 Cloudfront 기반의 정적 웹사이트
 
 ## Advanced
-* 
+* 테라폼 외의 IaC 툴에는 어떤 것이 있을까요? 테라폼에 비해 어떤 장점들을 가지고 있을까요?
