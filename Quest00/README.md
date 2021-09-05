@@ -4,10 +4,10 @@
 * 이번 퀘스트에서는 데브옵스가 무엇인지, 이러한 개념이 왜 나오게 되었는지 등에 대해 다룰 예정입니다.
 
 ## Resources
-* https://aws.amazon.com/ko/devops/what-is-devops/
-* https://azure.microsoft.com/ko-kr/overview/what-is-devops/
-* https://cloud.google.com/devops/?hl=ko
-* https://en.wikipedia.org/wiki/DevOps
+* [DevOps란 무엇입니까?](https://aws.amazon.com/ko/devops/what-is-devops/)
+* [DevOps란?](https://azure.microsoft.com/ko-kr/overview/what-is-devops/)
+* [DevOps](https://cloud.google.com/devops/?hl=ko)
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
 ## Checklist
 * 만약 비개발자에게 데브옵스가 무엇인지 설명하게 된다면 어떻게 설명할 수 있을까요?
