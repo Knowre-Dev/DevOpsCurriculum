@@ -4,10 +4,19 @@
 * 이번 퀘스트는 여러 대의 서버를 통해 안정적인 서비스를 만드는 방법을 다룹니다.
 
 ## Topics
+* Switch
+  * L2 Switch
+  * L3 Switch
+  * L4 Switch
+  * L7 Switch
+* Load Balancer
+  * 리스너
+  * 대상그룹
+  * 상태 검사
 
 ## Resources
-* https://aws.amazon.com/ko/elasticloadbalancing
-* `로드밸런서`와 `리스너`, 그리고 `대상그룹`와 `상태 검사`
+* [ELB](https://aws.amazon.com/ko/elasticloadbalancing)
+* [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 
 ## Checklist
 * Single Point of Failure는 어떤 개념일까요?
