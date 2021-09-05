@@ -11,10 +11,11 @@
 * Invalidation(Purging)
 
 ## Resources
-* https://aws.amazon.com/ko/s3/
-* https://aws.amazon.com/ko/cloudfront/
-* https://developer.mozilla.org/ko/docs/Web/HTTP/Caching
-* https://developer.mozilla.org/ko/docs/Web/HTTP/CORS
+* [Amazon S3](https://aws.amazon.com/ko/s3/)
+* [콘텐츠 전송 네트워크(CDN)](https://www.akamai.com/ko/our-thinking/cdn/what-is-a-cdn)
+* [Amazon Cloudfront](https://aws.amazon.com/ko/cloudfront/)
+* [HTTP caching](https://developer.mozilla.org/ko/docs/Web/HTTP/Caching)
+* [교차 출처 리소스 공유 (CORS)](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
 
 
 ## Checklist
