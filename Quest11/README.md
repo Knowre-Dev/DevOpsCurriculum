@@ -9,10 +9,10 @@
 * Secrets Manager
 
 ## Resources
-* https://www.44bits.io/ko/post/understanding_aws_vpc
-* https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html
-* https://aws.amazon.com/ko/secrets-manager/
-* https://blog.logrocket.com/web-security-101/
+* [AWS VPC의 이해](https://www.44bits.io/ko/post/understanding_aws_vpc)
+* [IAM](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
+* [Secrets Manager](https://aws.amazon.com/ko/secrets-manager/)
+* [Web security 101](https://blog.logrocket.com/web-security-101/)
 
 ## Checklist
 * AWS의 VPC는 어떤 서비스일까요?
@@ -27,4 +27,5 @@
 * 지금까지 구현한 웹 어플리케이션을 VPC 안에서 서비스 해 보세요.
 
 ## Advanced
-* 
+* VPN이란 무엇인가요? 회사에서 VPN을 구축했을 때의 장점에는 어떤 것이 있을까요?
+* 구축한 VPN을 AWS의 VPC에 연결하려면 어떤 방법이 있을까요?
